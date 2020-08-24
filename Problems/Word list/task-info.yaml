@@ -8,5 +8,9 @@ files:
             ["Accolade", "is", "an", "expression", "of", "praise"]]
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6321
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6321">JetBrains
+    Academy</a></html>
+  time: Mon, 24 Aug 2020 14:56:36 UTC
 record: -1
