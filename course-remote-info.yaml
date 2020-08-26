@@ -38,8 +38,6 @@ topics:
   - title: Indexes
     theory_id: 6189
   2:
-  - title: Boolean logic
-    theory_id: 6025
   - title: IDE
     theory_id: 3805
   - title: Avoiding bad comments
@@ -66,6 +64,8 @@ topics:
     theory_id: 6938
   - title: PyCharm basics
     theory_id: 6193
+  - title: Boolean logic
+    theory_id: 6025
   3:
   - title: Quotes and multi-line strings
     theory_id: 5814
