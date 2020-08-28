@@ -5,5 +5,9 @@ files:
   text: prime_numbers = ...
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/9515
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9515">JetBrains
+    Academy</a></html>
+  time: Fri, 28 Aug 2020 13:19:34 UTC
 record: -1
