@@ -65,7 +65,7 @@ for i in range(3):
 print("---------")
 i = 0
 
-while any(m) == "_":
+for j in range(9):
     print("---------")
     for i in range(3):
         print(f'| {m[i][0]} {m[i][1]} {m[i][2]} |')
