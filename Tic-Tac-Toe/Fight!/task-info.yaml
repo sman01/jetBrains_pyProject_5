@@ -336,5 +336,24 @@ files:
         TicTacToeTest('tictactoe.tictactoe').run_tests()
   learner_created: false
 feedback_link: https://hyperskill.org/projects/73/stages/403/implement
-status: Unchecked
+status: Failed
+feedback:
+  message: |-
+    Exception in test #1
+
+    Traceback (most recent call last):
+      File "tictactoe.py", line 68, in <module>
+        while any(m) == "_":
+    ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+
+    Please find below the output of your program during this failed test.
+
+    ---
+
+    ---------
+    |       |
+    |       |
+    |       |
+    ---------
+  time: Fri, 28 Aug 2020 13:37:48 UTC
 record: -1
